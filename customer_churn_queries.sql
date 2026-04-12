@@ -80,18 +80,6 @@ GROUP BY Contract;
 SELECT * FROM customer_churn
 WHERE Tenure < 12;
 
--- Tenure Group Analysis 
-SELECT 
-    CASE 
-        WHEN Tenure <= 12 THEN '0-1 Year'
-        WHEN Tenure <= 24 THEN '1-2 Years'
-        ELSE '2+ Years'
-    END AS Tenure_Group, Churn,
-    COUNT(*) AS total
-FROM customer_churn
-GROUP BY Tenure_Group, Churn;
-
-
 -- High vs Low Charges
 SELECT 
     CASE 
@@ -101,4 +89,3 @@ SELECT
     COUNT(*) AS total
 FROM customer_churn
 GROUP BY Charge_Category, Churn;
-
