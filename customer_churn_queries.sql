@@ -1,6 +1,4 @@
 --  Churn Percentage by Employment
-
-
 -- Create Database
 CREATE DATABASE customer_churn_db;
 
