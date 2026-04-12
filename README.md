@@ -143,6 +143,6 @@ https://github.com/AyeshaMuskan-a/customer-churn-analysis-ml/blob/main/customer_
 
 ## 📎 Conclusion
 
-This project demonstrates how Machine Learning, SQL, and Data Visualization can be combined to solve real-world business problems like customer churn and credit risk analysis.
+This project demonstrates how Machine Learning, SQL, and Data Visualization can be combined to solve real-world business problems like customer churn..
 
 ---
