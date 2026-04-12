@@ -137,7 +137,7 @@ Businesses face high customer churn, leading to revenue loss. Identifying high-r
 
 ## 📷 Dashboard Preview
 
-(Add your dashboard image here)
+https://github.com/AyeshaMuskan-a/customer-churn-analysis-ml/blob/main/customer_dashboard11.pbix.png
 
 ---
 
